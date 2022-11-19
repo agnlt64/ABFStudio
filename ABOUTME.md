@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ABFStudio
-- 👀 I’m interested in coding an reading,
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, C# and Swift (no joke)
+- 👀 I’m interested in coding and understanding the fundamentals of computers
+- 🌱 I’m currently learning Python, and C++
 - 💞️ I’m looking to collaborate on nothing, I'm a student
-- 📫 How to reach me : you don't need to contact me
+- 📫 How to reach me : jaimelesfraisesbleues@gmail.com
 
 <!---
 ABFStudio/ABFStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
